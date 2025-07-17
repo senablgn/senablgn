@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+ 
 </a>
 </p>
 
@@ -13,16 +13,29 @@
 
 ### 👩‍💻 About Me
 
-I'm a 4rd-year Computer Engineering student at Biruni University. Currently, I'm improving my skills in backend development and mobile development. I love exploring new technologies and continuously improving myself.
+### 👩‍💻 About Me
+
+I'm a 4th-year Computer Engineering student at Biruni University.  
+Currently, I’m improving myself in backend development.  
+I'm passionate about creating solid, scalable systems and diving deep into security mechanisms.
+
+⚙️ I enjoy building AI agents and automating workflows.  
+🔥 I'm also exploring Docker, Git, and DevOps best practices.
+
+
 
 ---
 
-### 🛠️ My Skills
+### 🛠️ My Toolbox
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-orange?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EE6C4D?style=for-the-badge&logo=n8n&logoColor=white"/>
 </p>
 
 ---
