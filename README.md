@@ -30,7 +30,7 @@ I'm a 4rd-year Computer Engineering student at Biruni University. Currently, I'm
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nurdansisman&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=senablgn&show_icons=true&theme=default" />
 </p>
 
 ---
@@ -38,5 +38,5 @@ I'm a 4rd-year Computer Engineering student at Biruni University. Currently, I'm
 ### 🔥 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurdansisman&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senablgn&layout=compact&theme=default" />
 </p>
