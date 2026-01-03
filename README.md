@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Sena 👋</h1>
+<h1 align="center">Hi there, I'm Sena</h1>
 
 
 
@@ -19,7 +19,7 @@ I'm passionate about creating solid, scalable systems and diving deep into secur
 
 ---
 
-### 🛠️ My Toolbox
+###  My Toolbox
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -37,13 +37,12 @@ I'm passionate about creating solid, scalable systems and diving deep into secur
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=senablgn&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats-seven-delta-63.vercel.app/api?username=senablgn&show_icons=true&theme=default" alt="Sena's GitHub Stats" />
 </p>
-
 ---
 
-### 🔥 Most Used Languages
+###  Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senablgn&layout=compact&theme=default" />
+  <img src="https://github-readme-stats-seven-delta-63.vercel.app/api/top-langs/?username=senablgn&layout=compact&theme=default" alt="Top Languages" />
 </p>
