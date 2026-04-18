@@ -15,7 +15,9 @@ I'm passionate about creating solid, scalable systems and diving deep into secur
 ⚙️ I enjoy building AI agents and automating workflows.  
 🔥 I'm also exploring Docker, Git, and DevOps best practices.
 
+## 📫 Contact 
 
+- 📧 Email: [senabilgin17@gmail.com](mailto:senabilgin17@gmail.com)
 
 ---
 
