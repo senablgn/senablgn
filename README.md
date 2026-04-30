@@ -36,15 +36,3 @@ I'm passionate about creating solid, scalable systems and diving deep into secur
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-seven-delta-63.vercel.app/api?username=senablgn&show_icons=true&theme=default&cache_seconds=1" />
-</p>
----
-
-###  Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats-seven-delta-63.vercel.app/api/top-langs/?username=senablgn&layout=compact&theme=default&cache_seconds=1" />
-</p>
